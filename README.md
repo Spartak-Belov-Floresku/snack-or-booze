@@ -7,4 +7,8 @@
 
 #### To run tests locally, you need to run the json server in a separate console calling command ```npx json-server --watch db.json --delay 500 --port 5000```
 
-<img src="http://curric.rithmschool.com/springboard/assessments/react-1-d93a/_images/madlibs.gif">
+<img src="https://raw.githubusercontent.com/Spartak-Belov-Floresku/snack-or-booze/main/snack-or-booze/src/Screenshot%20(153).png">
+
+<img src="https://raw.githubusercontent.com/Spartak-Belov-Floresku/snack-or-booze/main/snack-or-booze/src/Screenshot%20(154).png">
+
+<img src="https://raw.githubusercontent.com/Spartak-Belov-Floresku/snack-or-booze/main/snack-or-booze/src/Screenshot%20(155).png">
