@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot Home component 1`] = `
+<DocumentFragment>
+  <form>
+    <label
+      for="name"
+    >
+      Name:
+    </label>
+    <input
+      id="name"
+      name="name"
+      type="text"
+      value="Nachos"
+    />
+    <label
+      for="description"
+    >
+      Description:
+    </label>
+    <input
+      id="description"
+      name="description"
+      type="text"
+      value="An American classic!"
+    />
+    <label
+      for="recipe"
+    >
+      Recipe:
+    </label>
+    <input
+      id="recipe"
+      name="recipe"
+      type="text"
+      value="Cover expensive, organic tortilla chips with Cheez Whiz."
+    />
+    <label
+      for="serve"
+    >
+      Serve:
+    </label>
+    <input
+      id="serve"
+      name="serve"
+      type="text"
+      value="Serve in a hand-thrown ceramic bowl, garnished with canned black olives"
+    />
+    <button>
+      Edit snacks
+    </button>
+  </form>
+</DocumentFragment>
+`;

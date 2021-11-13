@@ -1,0 +1,72 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot Home component 1`] = `
+<DocumentFragment>
+  <section
+    class="col-md-4"
+  >
+    <div
+      class="card"
+    >
+      <div
+        class="card-body"
+      >
+        <h5
+          class="font-weight-bold text-center card-title"
+        >
+          Drink Menu
+        </h5>
+        <ul
+          class="list-group"
+        >
+          <a
+            href="/drinks/martini"
+          >
+            <li
+              class="list-group-item"
+            >
+              Martini
+            </li>
+          </a>
+          <a
+            href="/drinks/negroni"
+          >
+            <li
+              class="list-group-item"
+            >
+              Negroni
+            </li>
+          </a>
+          <a
+            href="/drinks/gin-and-tonic"
+          >
+            <li
+              class="list-group-item"
+            >
+              Gin and Tonic
+            </li>
+          </a>
+          <a
+            href="/drinks/diet-coke"
+          >
+            <li
+              class="list-group-item"
+            >
+              Diet Coke
+            </li>
+          </a>
+        </ul>
+        <a
+          href="/"
+        >
+          <li
+            class="list-group-item"
+          >
+            Home page
+          </li>
+        </a>
+      </div>
+    </div>
+  </section>
+</DocumentFragment>
+`;

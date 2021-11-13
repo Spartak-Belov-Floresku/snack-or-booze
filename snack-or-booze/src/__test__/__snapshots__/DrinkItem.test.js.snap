@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders learn react link 1`] = `
+<DocumentFragment>
+  <section>
+    <div
+      class="card"
+    >
+      <div
+        class="card-body"
+      >
+        <h5
+          class="font-weight-bold text-center card-title"
+        >
+          Martini
+        </h5>
+        <p
+          class="font-italic card-text"
+        >
+          An ice-cold, refreshing classic.
+        </p>
+        <p>
+          <b>
+            Recipe:
+          </b>
+           Mix 3 parts vodka & 1 part dry vermouth.
+        </p>
+        <p>
+          <b>
+            Serve:
+          </b>
+           Serve very cold, straight up.
+        </p>
+        <p>
+          <a
+            href="/edit/drinks/martini"
+          >
+            Edit drink
+          </a>
+        </p>
+        <p>
+          <a
+            href="/drinks"
+          >
+            Drinks menu
+          </a>
+        </p>
+      </div>
+    </div>
+  </section>
+</DocumentFragment>
+`;

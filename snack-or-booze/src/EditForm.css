@@ -1,0 +1,14 @@
+form{
+    padding:30px;
+    border-radius: 5px;
+    background-color: rgba(3, 131, 31, 0.8);
+}
+input{
+    display: block;
+    margin:0 auto 1em;
+    background-color: chartreuse;
+}
+label{
+    clear: right;
+    color: rgb(6, 255, 68);
+}

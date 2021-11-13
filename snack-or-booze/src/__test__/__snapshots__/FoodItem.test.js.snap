@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders learn react link 1`] = `
+<DocumentFragment>
+  <section>
+    <div
+      class="card"
+    >
+      <div
+        class="card-body"
+      >
+        <h5
+          class="font-weight-bold text-center card-title"
+        >
+          Nachos
+        </h5>
+        <p
+          class="font-italic card-text"
+        >
+          An American classic!
+        </p>
+        <p>
+          <b>
+            Recipe:
+          </b>
+           Cover expensive, organic tortilla chips with Cheez Whiz.
+        </p>
+        <p>
+          <b>
+            Serve:
+          </b>
+           Serve in a hand-thrown ceramic bowl, garnished with canned black olives
+        </p>
+        <p>
+          <a
+            href="/edit/snacks/nachos"
+          >
+            Edit snack
+          </a>
+        </p>
+        <p>
+          <a
+            href="/snacks"
+          >
+            Snaks menu
+          </a>
+        </p>
+      </div>
+    </div>
+  </section>
+</DocumentFragment>
+`;
